@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.darksouloriginal.twa",
+        "sha256_cert_fingerprints": ["58:D2:56:39:1A:03:3D:2F:A9:F0:18:3C:7C:0E:B7:DF:E3:38:41:4F:2C:A5:0B:63:B3:38:F2:DE:56:92:D0:E5"]
+      }
+    }]
